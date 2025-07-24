@@ -1,3 +1,4 @@
 {
-    "board": "INEX_STM32:stm32:POP32"
+    "board": "INEX_STM32:stm32:POP32",
+    "output": ".build"
 }
